@@ -24,7 +24,7 @@ will need to complete work on your local machine. The general process is:
 In this assignment, you'll learn the workflow that you will be using to complete
 your assignments. You can follow along with the steps in the videos below, or
 continue reading to get a more detailed explanation of the process of working on
-lessons in Canvas.
+lessons in Canvas. Commit
 
 ## WSL: Completing Assignments Code Along
 
